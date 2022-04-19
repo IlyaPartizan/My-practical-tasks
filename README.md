@@ -1,1 +1,2 @@
 # My-practical-tasks
+# Here I will post my practical programming tasks for myself, but this repository is public and you can see my solutions if you need it, but I warn you in advance that the code is often not commented (these are my problems), but in the future I will try to become better and if I will post really interesting programs here, then I promise that the code will be understandable and interesting for you.
